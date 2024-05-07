@@ -1,4 +1,4 @@
-# Multi Stage Docker build example g
+# Multi Stage Docker build example g TRIGGER BUILD FOR TESTING
 `Dockerfile` scontains various stages which are tagged by a name using `as`.
 
 ## Commands used
